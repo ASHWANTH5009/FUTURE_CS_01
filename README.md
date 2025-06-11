@@ -4,8 +4,6 @@ Welcome to my GitHub repository for the **Cybersecurity Internship at Future Int
 
 ---
 
----
-
 ## 📌 Internship Details
 
 - **Organization**: Future Interns  
